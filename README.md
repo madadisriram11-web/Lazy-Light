@@ -14,3 +14,5 @@ Part:
 - shipping - also inescapable
 
 - :) good luck building this!
+
+https://cad.onshape.com/documents/1354035a2057e89d8a017c34/w/c7ef700447f60219ebe95f10/e/eef883a4e2ef19a2d82ec2f1?renderMode=0&uiState=6aefe8d28ae758540ebf4131
