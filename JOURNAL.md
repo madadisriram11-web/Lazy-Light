@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 10h | 3 |
+| Week 5 | Tier 1 | 10.5h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-11-05: Day 1: Polish Design Idea and Start CAD
 
-**3h**
+**3.5h**
 
 Day 1: Polish Design Idea and Start CAD
 
