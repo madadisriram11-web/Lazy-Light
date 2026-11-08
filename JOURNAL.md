@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 9.5h | 3 |
+| Week 5 | Tier 1 | 10h | 3 |
 
 ## Contents
 
@@ -56,7 +56,7 @@ Then I started on my CAD. I did not get much done because V1 was expensive, so I
 
 ### 2026-11-07: Day 2: CAD - Actual Poop
 
-**5h**
+**5.5h**
 
 Day 2: CAD - Actual Poop
 
