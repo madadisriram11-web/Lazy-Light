@@ -3,6 +3,8 @@ When you get in bed and finish reading your book and get nice and cozy, what is 
 
 <img width="1240" height="766" alt="image" src="https://github.com/user-attachments/assets/cd9b0520-affd-44bb-abf8-24534c86c46b" />
 
+<img width="952" height="656" alt="image" src="https://github.com/user-attachments/assets/da2062c1-e155-4f48-af0a-f6601ec25c12" />
+
 
 Part:
 - Arduino: for the actual coding and stuff
